@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nn1X
+- 👋 Hi, I’m @Nn1X 👉👈
 - I’m interested in ASP.net Core MVC developing.
 - I’m currently learning developing on C#.
 - I’m looking to collaborate on more experienced developers on the platform ASP.Net.
