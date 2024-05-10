@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nn1X 👉👈
-- I’m interested in ASP.net Core MVC developing.
-- I’m looking to collaborate on more experienced developers on the platform ASP or Blazor
+- I’m interested in ASP NET developing.
 - How to reach me: you can write me on gmail - aryrate@gmail.com
 
 <!---
